@@ -1,1 +1,1 @@
-https://github.com/Ilia-Rasulov/posmotri-v-okno-fd.git
+https://github.com/Ilia-Rasulov/posmotri-v-okno-fd
